@@ -309,7 +309,7 @@
     },
     "createdVizVersion": "7.1.0",
     "createdgaversion": "7.0.0",
-    "currentgaversion": "9.5.25",
+    "currentgaversion": "9.5.206",
     "deeplinkkey": "None",
     "defaultZIndex": "1",
     "defaultlocalekey": null,
@@ -444,7 +444,7 @@
             "version": "1.0"
         }
     },
-    "konyVizVersion": "9.5.25",
+    "konyVizVersion": "9.5.206",
     "lastmodifiedtime": "1577987710126",
     "location": "false",
     "log_level": "ERROR",
