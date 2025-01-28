@@ -93,7 +93,7 @@
     "apmserviceresponse": "false",
     "apmtouchorclick": "false",
     "appaddrkey": "",
-    "appidkey": "KSApp",
+    "appidkey": "KSAppPriyank",
     "appiniteventkey": "None",
     "applepushfunc": "None",
     "apploadeventkey": "None",
@@ -254,7 +254,7 @@
         },
         "wType": "Appmenu"
     },
-    "appnamekey": "KSApp",
+    "appnamekey": "KSAppPriyank",
     "appointments": "false",
     "apppackagekey": "com.orgname.KSApp",
     "apptitle": "",
